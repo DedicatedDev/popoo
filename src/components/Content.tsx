@@ -26,8 +26,8 @@ const Content = () => (
       </View>
 
       <Text style={styles.text}>
-        <Text style={styles.textBold}>Lorem ipsum dolor sit amet consectetur</Text>
-        {` adipisicing elit.\nNesciunt ea vero voluptas autem error, alias corrupti nam quia sequi eius distinctio nemo quis molestiae provident deserunt voluptate ut iusto magnam.\n\nNesciunt, ipsum. In, cumque. Cupiditate nemo natus amet qui soluta.`}
+        <Text style={styles.textBold}>ClusterDuck</Text>
+        {` Each of the sets in Clusterduck has nine different ducks in total. Some of the ducks share parts, but at the very least it appears that two are different. Some ducks are harder to create than others due to the rarity of the parts that are required for you to breed!`}
       </Text>
     </View>
 
